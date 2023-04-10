@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     },
     cajaVerde: {
         // width: 100,
-        // height: 100,
+        //  height: 100,
         backgroundColor: 'green',
         borderWidth: 10,
         borderColor: 'white',
